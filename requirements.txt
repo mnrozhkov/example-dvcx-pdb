@@ -3,3 +3,4 @@ dvc-gs
 jupyterlab
 rdkit
 tqdm
+git+https://github.com/iterative/dvcx.git@wds_feature
